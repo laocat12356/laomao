@@ -1,4 +1,4 @@
-IP地址	端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
+IP地址	        端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
 130.61.203.115	8443	443	true	FRA	Europe	Frankfurt	195	11.60
 138.3.220.4	2082	2082	false	NRT	Asia Pacific	Tokyo	73	11.59
 141.147.162.204	8880	8880	false	NRT	Asia Pacific	Tokyo	69	11.59
